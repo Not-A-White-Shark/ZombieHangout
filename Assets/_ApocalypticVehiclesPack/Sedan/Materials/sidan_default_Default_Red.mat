@@ -100,7 +100,7 @@ Material:
     - _GlossHigh: 0.7169596
     - _GlossLow: 0.1666343
     - _GlossMapScale: 1
-    - _Glossiness: 0.5
+    - _Glossiness: 0
     - _GlossyReflections: 1
     - _HighSpecMultiplayer: 1.91453
     - _Metallic: 0
