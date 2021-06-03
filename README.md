@@ -11,4 +11,5 @@
 <h3>• Objects that you can pick up</h3>
 <img src="https://i.imgur.com/AyhCHW9.png">
 <img src="https://i.imgur.com/nJDKOE9.png">
+<img src="https://i.imgur.com/a3HGtdd.png">
 <hr>
